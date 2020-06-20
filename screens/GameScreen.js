@@ -31,6 +31,8 @@ const GameScreen = props => {
         </View>)
 }
 
+
+
 const styles = StyleSheet.create({
     screen: {
         flex: 1,
